@@ -1,0 +1,5 @@
+### PHP
+GET http://localhost/phptest/?num=10
+
+### EXPRESS, FASTIFY, KOA
+GET http://localhost:5000/?num=10

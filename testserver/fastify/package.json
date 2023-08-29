@@ -1,0 +1,10 @@
+{
+  "name": "fastifytest",
+  "version": "0.1.0",
+  "description": "test server that returns random data in json",
+  "main": "fastifytest.js",
+  "license": "MIT",
+  "dependencies": {
+    "fastify": "^4.13.0"
+  }
+}
